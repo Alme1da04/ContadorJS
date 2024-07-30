@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Users/joaoa/Downloads/js-curso-2-aula1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ContadorJS"
+	}
+}
